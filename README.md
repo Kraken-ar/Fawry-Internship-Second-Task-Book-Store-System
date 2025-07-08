@@ -62,12 +62,13 @@ src/
 2. Open the project in IntelliJ IDEA or any Java IDE
 
 3. Run the QuantumBookstoreFullTest class — it includes pre-defined test cases
-
+```
 Quantum Book Store: Book has been added to inventory
 Quantum Book Store: 10 years or more have passed since publish year , Book has been added to Old Books inventory
 Quantum Book Store: there is already a book with the same ISBN
 Quantum Book Store: Book has been shipped to address :Cairo
 Quantum Book Store: Book is out of stock
 Quantum Book Store: this book dose not exist
+```
 
 
